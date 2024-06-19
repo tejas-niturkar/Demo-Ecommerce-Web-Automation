@@ -2,7 +2,7 @@ package pageObjects;
 
 public interface HomePageElements {
 
-    String companyLogo = "//a[@class=\"logo\"]";
+    String companyLogo = "//a[@class=\"logo1\"]";
 
 
 
